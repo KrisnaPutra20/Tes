@@ -257,7 +257,7 @@ nav ul li a {
     height: 30rem;
     object-fit: cover;
     object-position: center;
-    
+    border-radius: 10px;
     
 }
 
@@ -268,8 +268,6 @@ nav ul li a {
         
 
 }
-
-
 
 
 .about h2 {
